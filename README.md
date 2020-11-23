@@ -77,9 +77,11 @@
 
 <h3>Listening</h3>
 
-<a href="https://open.spotify.com/user/exponentemx">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=exponentemx&cover_image=true&theme=default" alt="jcmexdev's spotify"/>
+<p align="center">
+<a href="https://open.spotify.com/user/exponentemx" style="display: block;">
+  <img align="center" width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=exponentemx&cover_image=true&theme=default" alt="jcmexdev's spotify"/>
 </a>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-success" alt="jcmexdev-build" />
