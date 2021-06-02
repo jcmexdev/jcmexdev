@@ -1,7 +1,7 @@
 [![GitHub Header jcmexdev](https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/github-cover.png)](http://www.jcmexdev.com/)
 
 <p align='center'>
-  <a href="http://www.jcmexdev.com/"><img src="https://img.shields.io/badge/blog-9146FF.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jcmexdev-blog.herokuapp.com/"><img src="https://img.shields.io/badge/blog-9146FF.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/juancarlosgarciaesquivel"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/jcmexdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://platzi.com/@jcmexdev/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
