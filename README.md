@@ -10,7 +10,7 @@
 
 <h1 align="center">Hey
 <img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, nice to see you 👨‍💻</h1>
-<p>Backend developer, specialized in web technologies like JavaScript, React, React Native, Redux, Node, Php, Laravel. Focused in create quality and high performance software. Self taught, I love learn about tech and I share post about my favorite topics on my personal blog.</p>
+<p>Backend developer, specialized in web technologies like JavaScript, React, React Native, Redux, Node, Php, Laravel. Focused in create quality and high-performance software. Self-taught, I love learning about tech and I share posts about my favorite topics on my blog.</p>
 
 ---
 
