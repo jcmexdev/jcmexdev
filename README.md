@@ -54,6 +54,9 @@
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white)
 
+![Php](https://img.shields.io/badge/_-Php-292e33?style=flat-square&logo=Php&logoColor=fff)
+![Laravel](https://img.shields.io/badge/_-Laravel-292e33?style=flat-square&logo=Laravel&logoColor=fff)
+![Symfony](https://img.shields.io/badge/_-Symfony-292e33?style=flat-square&logo=Symfony&logoColor=fff)
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/_-vercel-292e33?style=flat-square&logo=vercel&logoColor=fff)
