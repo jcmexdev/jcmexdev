@@ -18,6 +18,8 @@
 
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff)
 ![Bash](https://img.shields.io/badge/_-Bash-292e33?style=flat-square&logo=gnu-bash&logoColor=fff)
+![Nodemon](https://img.shields.io/badge/_-Nodemon-292e33?style=flat-square&logo=Nodemon&logoColor=fff)
+![PM2](https://img.shields.io/badge/_-PM2-292e33?style=flat-square&logo=PM2&logoColor=fff)
 
 ![Google Chrome](https://img.shields.io/badge/_-GoogleChrome-292e33?style=flat-square&logo=Google-Chrome&logoColor=fff)
 ![Firefox Browser](https://img.shields.io/badge/_-Firefox-292e33?style=flat-square&logo=firefox-browser&logoColor=fff)
@@ -27,6 +29,13 @@
 ---
 
 <h3>👨‍💻 Stack & Skills</h3>
+
+![Node](https://img.shields.io/badge/_-Nodejs-292e33?style=flat-square&logo=Node.js&logoColor=fff)
+![Fastify](https://img.shields.io/badge/_-Fastify-292e33?style=flat-square&logo=Fastify&logoColor=fff)
+![Express](https://img.shields.io/badge/_-Express-292e33?style=flat-square&logo=Express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff)
+![AWS](https://img.shields.io/badge/_-Amazon_AWS-292e33?style=flat-square&logo=AmazonAWS&logoColor=fff)
+![Jest](https://img.shields.io/badge/_-Jest-292e33?style=flat-square&logo=Jest&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
@@ -45,13 +54,9 @@
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white)
 
-![Php](https://img.shields.io/badge/_-Php-292e33?style=flat-square&logo=Php&logoColor=fff)
-![Laravel](https://img.shields.io/badge/_-Laravel-292e33?style=flat-square&logo=Laravel&logoColor=fff)
-![Symfony](https://img.shields.io/badge/_-Symfony-292e33?style=flat-square&logo=Symfony&logoColor=fff)
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/_-vercel-292e33?style=flat-square&logo=vercel&logoColor=fff)
-![cPanel](https://img.shields.io/badge/_-cPanel-292e33?style=flat-square&logo=cPanel&logoColor=fff)
 
 ![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
 ![Composer](https://img.shields.io/badge/_-Composer-292e33?style=flat-square&logo=Composer&logoColor=fff)
