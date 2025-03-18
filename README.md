@@ -87,7 +87,7 @@
 
 <p align="center">
 <a href="https://open.spotify.com/user/exponentemx" style="display: block;">
-  <img align="center" width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=exponentemx&cover_image=true&theme=default" alt="jcmexdev's spotify"/>
+  <img align="center" width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=exponentemx&cover_image=true&theme=default" alt="jcmexdev's spotify"/>
 </a>
 </p>
 
