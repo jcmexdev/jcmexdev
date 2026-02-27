@@ -10,7 +10,12 @@
 
 <h1 align="center">Hey
 <img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, nice to see you 👨‍💻</h1>
-<p>Backend developer, specialized in web technologies like JavaScript, React, React Native, Redux, Node, Php, Laravel. Focused in create quality and high-performance software. Self-taught, I love learning about tech and I share posts about my favorite topics on my blog.</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Software+Engineer;Golang;JavaScript,+React,+Node;Tech+Blogger" alt="Typing SVG" />
+</p>
+
+<p>Seasoned Software Engineer with a strong track record in crafting, building, and upkeeping top tier software solutions. My dedication revolves around ensuring the consistent delivery of high value products, achieved through a blend of technical prowess, effective communication, and collaborative teamwork. I love learning about tech and sharing my knowledge with communities through posts on my blog.</p>
 
 ---
 
@@ -25,6 +30,14 @@
 ![Firefox Browser](https://img.shields.io/badge/_-Firefox-292e33?style=flat-square&logo=firefox-browser&logoColor=fff)
 ![Brave](https://img.shields.io/badge/_-Brave-292e33?style=flat-square&logo=brave&logoColor=fff)
 ![Adobe XD](https://img.shields.io/badge/_-Adobe%20XD-292e33?style=flat-square&logo=ADOBE-XD&logoColor=fff)
+
+<br/>
+
+**🤖 AI-Augmented Workflow**<br/>
+<small><i>I leverage AI tools as pair-programming assistants and structural support to optimize workflows, research, and boost productivity, while maintaining full ownership of the logic and software design.</i></small><br/>
+![Gemini](https://img.shields.io/badge/_-Gemini-292e33?style=flat-square&logo=googlegemini&logoColor=fff)
+![Cloud Code](https://img.shields.io/badge/_-Cloud%20Code-292e33?style=flat-square&logo=googlecloud&logoColor=fff)
+![Antigravity](https://img.shields.io/badge/_-Antigravity-292e33?style=flat-square&logo=google&logoColor=fff)
 
 ---
 
@@ -54,15 +67,13 @@
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white)
 
-![Php](https://img.shields.io/badge/_-Php-292e33?style=flat-square&logo=Php&logoColor=fff)
-![Laravel](https://img.shields.io/badge/_-Laravel-292e33?style=flat-square&logo=Laravel&logoColor=fff)
-![Symfony](https://img.shields.io/badge/_-Symfony-292e33?style=flat-square&logo=Symfony&logoColor=fff)
+![Go](https://img.shields.io/badge/_-Go-292e33?style=flat-square&logo=go&logoColor=fff)
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/_-vercel-292e33?style=flat-square&logo=vercel&logoColor=fff)
 
 ![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
-![Composer](https://img.shields.io/badge/_-Composer-292e33?style=flat-square&logo=Composer&logoColor=fff)
+![Docker](https://img.shields.io/badge/_-Docker-292e33?style=flat-square&logo=docker&logoColor=fff)
 
 ![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
 ![MariaDB](https://img.shields.io/badge/_-MariaDB-292e33?style=flat-square&logo=MariaDB&logoColor=fff)
@@ -73,12 +84,24 @@
 <h3>GitHub Stats</h3>
 <div align="center">
 <a href="https://github.com/jcmexdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmexdev&theme=dracula&count_private=true&hide=css,blade" alt="jcmexdev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-nine-alpha-48.vercel.app/api/top-langs/?username=jcmexdev&theme=dracula&count_private=true&hide=css,blade" alt="jcmexdev's GitHub Stats" />
 </a>
 
 <a href="https://github.com/jcmexdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmexdev&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="jcmexdev's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats-nine-alpha-48.vercel.app/api?username=jcmexdev&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="jcmexdev's GitHub Stats"/>
 </a>
+</div>
+
+---
+
+<h3>Contribution Snake</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcmexdev/jcmexdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcmexdev/jcmexdev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
