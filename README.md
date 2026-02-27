@@ -1,4 +1,4 @@
-[![GitHub Header jcmexdev](https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/github-cover.png)](http://www.jcmexdev.com/)
+[![GitHub Header jcmexdev](https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/juan-carlos-garcia-esquivel-cover.png)](http://www.jcmexdev.com/)
 
 <p align='center'>
   <a href="https://jcmexdev-blog.herokuapp.com/"><img src="https://img.shields.io/badge/blog-9146FF.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,63 +21,57 @@
 
 <h3>🛠 Dev Tools</h3>
 
-![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff)
-![Bash](https://img.shields.io/badge/_-Bash-292e33?style=flat-square&logo=gnu-bash&logoColor=fff)
-![Nodemon](https://img.shields.io/badge/_-Nodemon-292e33?style=flat-square&logo=Nodemon&logoColor=fff)
-![PM2](https://img.shields.io/badge/_-PM2-292e33?style=flat-square&logo=PM2&logoColor=fff)
-
-![Google Chrome](https://img.shields.io/badge/_-GoogleChrome-292e33?style=flat-square&logo=Google-Chrome&logoColor=fff)
-![Firefox Browser](https://img.shields.io/badge/_-Firefox-292e33?style=flat-square&logo=firefox-browser&logoColor=fff)
-![Brave](https://img.shields.io/badge/_-Brave-292e33?style=flat-square&logo=brave&logoColor=fff)
-![Adobe XD](https://img.shields.io/badge/_-Adobe%20XD-292e33?style=flat-square&logo=ADOBE-XD&logoColor=fff)
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Bash-292e33?style=flat-square&logo=gnu-bash&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Nodemon-292e33?style=flat-square&logo=Nodemon&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-PM2-292e33?style=flat-square&logo=PM2&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-GoogleChrome-292e33?style=flat-square&logo=Google-Chrome&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Firefox-292e33?style=flat-square&logo=firefox-browser&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Brave-292e33?style=flat-square&logo=brave&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Adobe%20XD-292e33?style=flat-square&logo=ADOBE-XD&logoColor=fff" />
+</p>
 
 **🤖 AI-Augmented Workflow**<br/>
 <small><i>I leverage AI tools as pair-programming assistants and structural support to optimize workflows, research, and boost productivity, while maintaining full ownership of the logic and software design.</i></small><br/>
-![Gemini](https://img.shields.io/badge/_-Gemini-292e33?style=flat-square&logo=googlegemini&logoColor=fff)
-![Cloud Code](https://img.shields.io/badge/_-Cloud%20Code-292e33?style=flat-square&logo=googlecloud&logoColor=fff)
-![Antigravity](https://img.shields.io/badge/_-Antigravity-292e33?style=flat-square&logo=google&logoColor=fff)
+<p>
+  <img src="https://img.shields.io/badge/_-Gemini-292e33?style=flat-square&logo=googlegemini&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Cloud%20Code-292e33?style=flat-square&logo=googlecloud&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Antigravity-292e33?style=flat-square&logo=google&logoColor=fff" />
+</p>
 
 ---
 
 <h3>👨‍💻 Stack & Skills</h3>
 
-![Node](https://img.shields.io/badge/_-Nodejs-292e33?style=flat-square&logo=Node.js&logoColor=fff)
-![Fastify](https://img.shields.io/badge/_-Fastify-292e33?style=flat-square&logo=Fastify&logoColor=fff)
-![Express](https://img.shields.io/badge/_-Express-292e33?style=flat-square&logo=Express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff)
-![AWS](https://img.shields.io/badge/_-Amazon_AWS-292e33?style=flat-square&logo=AmazonAWS&logoColor=fff)
-![Jest](https://img.shields.io/badge/_-Jest-292e33?style=flat-square&logo=Jest&logoColor=fff)
-
-![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
-
-![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap)
-
-![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
-![jQuery](https://img.shields.io/badge/_-jQuery-292e33?style=flat-square&logo=jQuery&logoColor=fff)
-![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
-![Redux](https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=Redux&logoColor=fff)
-
-![Expo](https://img.shields.io/badge/_-Expo-292e33?style=flat-square&logo=Expo&logoColor=fff)
-![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
-![Babel](https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white)
-
-![Go](https://img.shields.io/badge/_-Go-292e33?style=flat-square&logo=go&logoColor=fff)
-
-![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
-![Vercel](https://img.shields.io/badge/_-vercel-292e33?style=flat-square&logo=vercel&logoColor=fff)
-
-![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
-![Docker](https://img.shields.io/badge/_-Docker-292e33?style=flat-square&logo=docker&logoColor=fff)
-
-![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
-![MariaDB](https://img.shields.io/badge/_-MariaDB-292e33?style=flat-square&logo=MariaDB&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff)
+<p>
+  <img src="https://img.shields.io/badge/_-Nodejs-292e33?style=flat-square&logo=Node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Fastify-292e33?style=flat-square&logo=Fastify&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Express-292e33?style=flat-square&logo=Express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-MariaDB-292e33?style=flat-square&logo=MariaDB&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Amazon_AWS-292e33?style=flat-square&logo=AmazonAWS&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Jest-292e33?style=flat-square&logo=Jest&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-jQuery-292e33?style=flat-square&logo=jQuery&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=Redux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Expo-292e33?style=flat-square&logo=Expo&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white" />
+  <img src="https://img.shields.io/badge/_-Go-292e33?style=flat-square&logo=go&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-vercel-292e33?style=flat-square&logo=vercel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff" />
+  <img src="https://img.shields.io/badge/_-Docker-292e33?style=flat-square&logo=docker&logoColor=fff" />
+</p>
 
 ---
 
@@ -117,6 +111,5 @@
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-success" alt="jcmexdev-build" />
 <img src="https://komarev.com/ghpvc/?username=jcmexdev&label=profile%20views&color=blue" alt="jcmexdev-views" />
-<img src="https://img.shields.io/badge/pronouns-he%2Fhim-orange" alt="jcmexdev-pronouns" />
 <img src="https://img.shields.io/badge/licence-MIT-green" alt="jcmexdev-licence" />
 </p>
