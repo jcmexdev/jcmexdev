@@ -78,7 +78,9 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [ Guía Práctica de Insertion Sort: Eficiencia en Datos Casi Ordenados ](https://dev.to/jcmexdev/guia-practica-de-insertion-sort-eficiencia-en-datos-casi-ordenados-19jg)
+- [ Time Complexity y Big O: Prediciendo el Futuro de tu Código ](https://dev.to/jcmexdev/time-complexity-y-big-o-prediciendo-el-futuro-de-tu-codigo-3h86)
+- [ Guía Definitiva de Merge Sort: El Algoritmo de Divide y Vencerás ](https://dev.to/jcmexdev/guia-definitiva-de-merge-sort-el-algoritmo-de-divide-y-venceras-h1n)<!-- BLOG-POST-LIST:END -->
 
 ---
 
