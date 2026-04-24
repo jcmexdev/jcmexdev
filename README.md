@@ -75,6 +75,13 @@
 
 ---
 
+<h3>✍️ Recent Blog Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <h3>GitHub Stats</h3>
 <div align="center">
 <a href="https://github.com/jcmexdev">
