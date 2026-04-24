@@ -16,3 +16,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/jcmexdev"
+          max_post_count: 5
+          template: "$newline- [ $title ]($url)"
