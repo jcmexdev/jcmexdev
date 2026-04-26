@@ -78,6 +78,7 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ Stack: La Estructura Detrás del &quot;ctrl + z | cmd + z&quot; ](https://dev.to/jcmexdev/stack-la-estructura-detras-del-ctrl-z-cmd-z-2cgm)
 - [ Búsqueda Binaria: Mucho más que &#39;Dividir y Vencerás&#39; ](https://dev.to/jcmexdev/busqueda-binaria-mucho-mas-que-dividir-y-venceras-f40)
 - [ Guía Práctica de Insertion Sort: Eficiencia en Datos Casi Ordenados ](https://dev.to/jcmexdev/guia-practica-de-insertion-sort-eficiencia-en-datos-casi-ordenados-19jg)
 - [ Time Complexity y Big O: Prediciendo el Futuro de tu Código ](https://dev.to/jcmexdev/time-complexity-y-big-o-prediciendo-el-futuro-de-tu-codigo-3h86)
