@@ -78,11 +78,11 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ ¿Por qué gestionar tu tiempo es el camino más rápido al burnout? ](https://dev.to/jcmexdev/por-que-gestionar-tu-tiempo-es-el-camino-mas-rapido-al-burnout-4969)
 - [ Git Submodules: Repositorios dentro de otros Repositorios ](https://dev.to/jcmexdev/git-submodules-repositorios-dentro-de-otros-repositorios-1452)
 - [ Para de seguir archivos en git ](https://dev.to/jcmexdev/para-de-seguir-archivos-en-git-225a)
 - [ Stack: La Estructura Detrás del &quot;ctrl + z | cmd + z&quot; ](https://dev.to/jcmexdev/stack-la-estructura-detras-del-ctrl-z-cmd-z-2cgm)
-- [ Búsqueda Binaria: Mucho más que &#39;Dividir y Vencerás&#39; ](https://dev.to/jcmexdev/busqueda-binaria-mucho-mas-que-dividir-y-venceras-f40)
-- [ Guía Práctica de Insertion Sort: Eficiencia en Datos Casi Ordenados ](https://dev.to/jcmexdev/guia-practica-de-insertion-sort-eficiencia-en-datos-casi-ordenados-19jg)<!-- BLOG-POST-LIST:END -->
+- [ Búsqueda Binaria: Mucho más que &#39;Dividir y Vencerás&#39; ](https://dev.to/jcmexdev/busqueda-binaria-mucho-mas-que-dividir-y-venceras-f40)<!-- BLOG-POST-LIST:END -->
 
 ---
 
