@@ -78,11 +78,11 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ ¿Es el Builder Pattern simplemente un objeto de configuración con esteroides? ](https://dev.to/jcmexdev/es-el-builder-pattern-simplemente-un-objeto-de-configuracion-con-esteroides-2d77)
 - [ ¿Por qué gestionar tu tiempo es el camino más rápido al burnout? ](https://dev.to/jcmexdev/por-que-gestionar-tu-tiempo-es-el-camino-mas-rapido-al-burnout-4969)
 - [ Git Submodules: Repositorios dentro de otros Repositorios ](https://dev.to/jcmexdev/git-submodules-repositorios-dentro-de-otros-repositorios-1452)
 - [ Para de seguir archivos en git ](https://dev.to/jcmexdev/para-de-seguir-archivos-en-git-225a)
-- [ Stack: La Estructura Detrás del &quot;ctrl + z | cmd + z&quot; ](https://dev.to/jcmexdev/stack-la-estructura-detras-del-ctrl-z-cmd-z-2cgm)
-- [ Búsqueda Binaria: Mucho más que &#39;Dividir y Vencerás&#39; ](https://dev.to/jcmexdev/busqueda-binaria-mucho-mas-que-dividir-y-venceras-f40)<!-- BLOG-POST-LIST:END -->
+- [ Stack: La Estructura Detrás del &quot;ctrl + z | cmd + z&quot; ](https://dev.to/jcmexdev/stack-la-estructura-detras-del-ctrl-z-cmd-z-2cgm)<!-- BLOG-POST-LIST:END -->
 
 ---
 
