@@ -1,10 +1,9 @@
 [![GitHub Header jcmexdev](https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/juan-carlos-garcia-esquivel-cover.png)](http://www.jcmexdev.com/)
 
 <p align='center'>
-  <a href="https://jcmexdev-blog.herokuapp.com/"><img src="https://img.shields.io/badge/blog-9146FF.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/juancarlosgarciaesquivel"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/jcmexdev"><img src="https://img.shields.io/badge/blog-9146FF.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juan-carlos-garcia-esquivel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/jcmexdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/@jcmexdev/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/jcmexdev"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -109,6 +108,10 @@
   </picture>
 </div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcmexdev&theme=dracula&area=true&hide_border=true" width="100%" />
+</p>
+
 ---
 
 <h3>Listening</h3>
@@ -120,7 +123,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/build-passing-success" alt="jcmexdev-build" />
+  <img src="https://img.shields.io/badge/build-passing-success" alt="jcmexdev-build" />
 <img src="https://komarev.com/ghpvc/?username=jcmexdev&label=profile%20views&color=blue" alt="jcmexdev-views" />
-<img src="https://img.shields.io/badge/licence-MIT-green" alt="jcmexdev-licence" />
+  <img src="https://img.shields.io/badge/licence-MIT-green" alt="jcmexdev-licence" />
 </p>
