@@ -77,11 +77,16 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ Patrones de Diseño para un Manejo de Errores Limpio y Mantenible en Go ](https://dev.to/jcmexdev/patrones-de-diseno-para-un-manejo-de-errores-limpio-y-mantenible-en-go-45g6)
 - [ Tipos de errores, Wrapping e Inspección en Go ](https://dev.to/jcmexdev/tipos-de-errores-wrapping-e-inspeccion-en-go-345o)
 - [ ¿Por qué Go no tiene excepciones? Primeros pasos ](https://dev.to/jcmexdev/por-que-go-no-tiene-excepciones-primeros-pasos-49le)
 - [ ¿Cómo optimizar algoritmos en arreglos y listas con la técnica de dos punteros? ](https://dev.to/jcmexdev/como-optimizar-algoritmos-en-arreglos-y-listas-con-la-tecnica-de-dos-punteros-3751)
 - [ ¿Por qué las Goroutines son el &quot;superpoder&quot; que otros lenguajes envidian? ](https://dev.to/jcmexdev/por-que-las-goroutines-son-el-superpoder-que-otros-lenguajes-envidian-3fop)
-- [ ¿Por qué Go mató a la herencia? ](https://dev.to/jcmexdev/por-que-go-mato-a-la-herencia-23ab)<!-- BLOG-POST-LIST:END -->
+- [ ¿Por qué Go mató a la herencia? ](https://dev.to/jcmexdev/por-que-go-mato-a-la-herencia-23ab)
+- [ ¿Es el Builder Pattern simplemente un objeto de configuración con esteroides? ](https://dev.to/jcmexdev/es-el-builder-pattern-simplemente-un-objeto-de-configuracion-con-esteroides-2d77)
+- [ ¿Por qué gestionar tu tiempo es el camino más rápido al burnout? ](https://dev.to/jcmexdev/por-que-gestionar-tu-tiempo-es-el-camino-mas-rapido-al-burnout-4969)
+- [ Git Submodules: Repositorios dentro de otros Repositorios ](https://dev.to/jcmexdev/git-submodules-repositorios-dentro-de-otros-repositorios-1452)
+- [ Para de seguir archivos en git ](https://dev.to/jcmexdev/para-de-seguir-archivos-en-git-225a)<!-- BLOG-POST-LIST:END -->
 
 ---
 
