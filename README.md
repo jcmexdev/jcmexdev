@@ -77,6 +77,8 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ ¿Por qué Spec-Driven Development está fallando y cómo lo reemplaza Intent-Driven Software Development &lpar;IDSD&rpar;? ](https://dev.to/jcmexdev/por-que-spec-driven-development-esta-fallando-y-como-lo-reemplaza-intent-driven-software-3njn)
+- [ ¿Cómo transforma Spec-Driven Development la forma en que programamos con inteligencia artificial? ](https://dev.to/jcmexdev/como-transforma-spec-driven-development-la-forma-en-que-programamos-con-inteligencia-artificial-fep)
 - [ ¿Cómo funciona CORS y por qué protege la seguridad en peticiones HTTP? ](https://dev.to/jcmexdev/como-funciona-cors-y-por-que-protege-la-seguridad-en-peticiones-http-3mha)
 - [ ¿Qué es el Vibe Coding y cómo impacta el futuro del desarrollo de software? ](https://dev.to/jcmexdev/que-es-el-vibe-coding-y-como-impacta-el-futuro-del-desarrollo-de-software-4nd8)
 - [ Patrones de Diseño para un Manejo de Errores Limpio y Mantenible en Go ](https://dev.to/jcmexdev/patrones-de-diseno-para-un-manejo-de-errores-limpio-y-mantenible-en-go-45g6)
@@ -84,9 +86,7 @@
 - [ ¿Por qué Go no tiene excepciones? Primeros pasos ](https://dev.to/jcmexdev/por-que-go-no-tiene-excepciones-primeros-pasos-49le)
 - [ ¿Cómo optimizar algoritmos en arreglos y listas con la técnica de dos punteros? ](https://dev.to/jcmexdev/como-optimizar-algoritmos-en-arreglos-y-listas-con-la-tecnica-de-dos-punteros-3751)
 - [ ¿Por qué las Goroutines son el &quot;superpoder&quot; que otros lenguajes envidian? ](https://dev.to/jcmexdev/por-que-las-goroutines-son-el-superpoder-que-otros-lenguajes-envidian-3fop)
-- [ ¿Por qué Go mató a la herencia? ](https://dev.to/jcmexdev/por-que-go-mato-a-la-herencia-23ab)
-- [ ¿Es el Builder Pattern simplemente un objeto de configuración con esteroides? ](https://dev.to/jcmexdev/es-el-builder-pattern-simplemente-un-objeto-de-configuracion-con-esteroides-2d77)
-- [ ¿Por qué gestionar tu tiempo es el camino más rápido al burnout? ](https://dev.to/jcmexdev/por-que-gestionar-tu-tiempo-es-el-camino-mas-rapido-al-burnout-4969)<!-- BLOG-POST-LIST:END -->
+- [ ¿Por qué Go mató a la herencia? ](https://dev.to/jcmexdev/por-que-go-mato-a-la-herencia-23ab)<!-- BLOG-POST-LIST:END -->
 
 ---
 
