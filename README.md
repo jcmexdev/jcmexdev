@@ -77,6 +77,7 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ Sesiones Stateful: ¿El verdadero estándar de oro en la Web? ](https://dev.to/jcmexdev/sesiones-stateful-el-verdadero-estandar-de-oro-en-la-web-hgj)
 - [ ¿Deuda Técnica Estratégica o Negligencia? Cómo no autodestruir tu código ](https://dev.to/jcmexdev/deuda-tecnica-estrategica-o-negligencia-como-no-autodestruir-tu-codigo-53jf)
 - [ ¿Por qué Spec-Driven Development está fallando y cómo lo reemplaza Intent-Driven Software Development &lpar;IDSD&rpar;? ](https://dev.to/jcmexdev/por-que-spec-driven-development-esta-fallando-y-como-lo-reemplaza-intent-driven-software-3njn)
 - [ ¿Cómo transforma Spec-Driven Development la forma en que programamos con inteligencia artificial? ](https://dev.to/jcmexdev/como-transforma-spec-driven-development-la-forma-en-que-programamos-con-inteligencia-artificial-fep)
@@ -85,8 +86,7 @@
 - [ Patrones de Diseño para un Manejo de Errores Limpio y Mantenible en Go ](https://dev.to/jcmexdev/patrones-de-diseno-para-un-manejo-de-errores-limpio-y-mantenible-en-go-45g6)
 - [ Tipos de errores, Wrapping e Inspección en Go ](https://dev.to/jcmexdev/tipos-de-errores-wrapping-e-inspeccion-en-go-345o)
 - [ ¿Por qué Go no tiene excepciones? Primeros pasos ](https://dev.to/jcmexdev/por-que-go-no-tiene-excepciones-primeros-pasos-49le)
-- [ ¿Cómo optimizar algoritmos en arreglos y listas con la técnica de dos punteros? ](https://dev.to/jcmexdev/como-optimizar-algoritmos-en-arreglos-y-listas-con-la-tecnica-de-dos-punteros-3751)
-- [ ¿Por qué las Goroutines son el &quot;superpoder&quot; que otros lenguajes envidian? ](https://dev.to/jcmexdev/por-que-las-goroutines-son-el-superpoder-que-otros-lenguajes-envidian-3fop)<!-- BLOG-POST-LIST:END -->
+- [ ¿Cómo optimizar algoritmos en arreglos y listas con la técnica de dos punteros? ](https://dev.to/jcmexdev/como-optimizar-algoritmos-en-arreglos-y-listas-con-la-tecnica-de-dos-punteros-3751)<!-- BLOG-POST-LIST:END -->
 
 ---
 
