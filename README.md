@@ -77,6 +77,7 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ JWT Stateless: Arquitectura, seguridad y límites reales ](https://dev.to/jcmexdev/jwt-stateless-arquitectura-seguridad-y-limites-reales-4hgh)
 - [ Sesiones Stateful: ¿El verdadero estándar de oro en la Web? ](https://dev.to/jcmexdev/sesiones-stateful-el-verdadero-estandar-de-oro-en-la-web-hgj)
 - [ ¿Deuda Técnica Estratégica o Negligencia? Cómo no autodestruir tu código ](https://dev.to/jcmexdev/deuda-tecnica-estrategica-o-negligencia-como-no-autodestruir-tu-codigo-53jf)
 - [ ¿Por qué Spec-Driven Development está fallando y cómo lo reemplaza Intent-Driven Software Development &lpar;IDSD&rpar;? ](https://dev.to/jcmexdev/por-que-spec-driven-development-esta-fallando-y-como-lo-reemplaza-intent-driven-software-3njn)
@@ -85,8 +86,7 @@
 - [ ¿Qué es el Vibe Coding y cómo impacta el futuro del desarrollo de software? ](https://dev.to/jcmexdev/que-es-el-vibe-coding-y-como-impacta-el-futuro-del-desarrollo-de-software-4nd8)
 - [ Patrones de Diseño para un Manejo de Errores Limpio y Mantenible en Go ](https://dev.to/jcmexdev/patrones-de-diseno-para-un-manejo-de-errores-limpio-y-mantenible-en-go-45g6)
 - [ Tipos de errores, Wrapping e Inspección en Go ](https://dev.to/jcmexdev/tipos-de-errores-wrapping-e-inspeccion-en-go-345o)
-- [ ¿Por qué Go no tiene excepciones? Primeros pasos ](https://dev.to/jcmexdev/por-que-go-no-tiene-excepciones-primeros-pasos-49le)
-- [ ¿Cómo optimizar algoritmos en arreglos y listas con la técnica de dos punteros? ](https://dev.to/jcmexdev/como-optimizar-algoritmos-en-arreglos-y-listas-con-la-tecnica-de-dos-punteros-3751)<!-- BLOG-POST-LIST:END -->
+- [ ¿Por qué Go no tiene excepciones? Primeros pasos ](https://dev.to/jcmexdev/por-que-go-no-tiene-excepciones-primeros-pasos-49le)<!-- BLOG-POST-LIST:END -->
 
 ---
 
