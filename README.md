@@ -77,6 +77,7 @@
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ ¿Búsqueda Binaria desde cero: la guía definitiva para dominar algoritmos? ](https://dev.to/jcmexdev/busqueda-binaria-desde-cero-la-guia-definitiva-para-dominar-algoritmos-53p5)
 - [ JWT Stateless: Arquitectura, seguridad y límites reales ](https://dev.to/jcmexdev/jwt-stateless-arquitectura-seguridad-y-limites-reales-4hgh)
 - [ Sesiones Stateful: ¿El verdadero estándar de oro en la Web? ](https://dev.to/jcmexdev/sesiones-stateful-el-verdadero-estandar-de-oro-en-la-web-hgj)
 - [ ¿Deuda Técnica Estratégica o Negligencia? Cómo no autodestruir tu código ](https://dev.to/jcmexdev/deuda-tecnica-estrategica-o-negligencia-como-no-autodestruir-tu-codigo-53jf)
@@ -85,8 +86,7 @@
 - [ ¿Cómo funciona CORS y por qué protege la seguridad en peticiones HTTP? ](https://dev.to/jcmexdev/como-funciona-cors-y-por-que-protege-la-seguridad-en-peticiones-http-3mha)
 - [ ¿Qué es el Vibe Coding y cómo impacta el futuro del desarrollo de software? ](https://dev.to/jcmexdev/que-es-el-vibe-coding-y-como-impacta-el-futuro-del-desarrollo-de-software-4nd8)
 - [ Patrones de Diseño para un Manejo de Errores Limpio y Mantenible en Go ](https://dev.to/jcmexdev/patrones-de-diseno-para-un-manejo-de-errores-limpio-y-mantenible-en-go-45g6)
-- [ Tipos de errores, Wrapping e Inspección en Go ](https://dev.to/jcmexdev/tipos-de-errores-wrapping-e-inspeccion-en-go-345o)
-- [ ¿Por qué Go no tiene excepciones? Primeros pasos ](https://dev.to/jcmexdev/por-que-go-no-tiene-excepciones-primeros-pasos-49le)<!-- BLOG-POST-LIST:END -->
+- [ Tipos de errores, Wrapping e Inspección en Go ](https://dev.to/jcmexdev/tipos-de-errores-wrapping-e-inspeccion-en-go-345o)<!-- BLOG-POST-LIST:END -->
 
 ---
 
